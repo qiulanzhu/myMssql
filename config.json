@@ -1,0 +1,15 @@
+{
+  "mssql": {
+    "user": "sa",
+    "password": "romens",
+    "server": "192.168.101.102",
+    "database": "Test",
+    "pool": {
+      "max": 10,
+      "min": 0,
+      "idleTimeoutMillis": 30000
+    }
+  },
+
+  "debug": true
+}
